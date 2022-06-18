@@ -1,10 +1,10 @@
-- skills = [
-         'Django',
-         'python',
-         'Django rest framework',
-         'Celery',
-         'postgresql',
-         ]
+### skills
+
+* Django
+* Python
+* Django rest framework
+* Celery
+* Postgresql
 
 <!---
 MohammadOshkooh/MohammadOshkooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
