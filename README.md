@@ -3,8 +3,9 @@
 * Django
 * Python
 * Django rest framework
-* Celery
+* Celery, Redis
 * Postgresql
+* Docker
 
 <!---
 MohammadOshkooh/MohammadOshkooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
