@@ -1,11 +1,12 @@
 ### skills
 
-* Django
 * Python
+* Django
 * Django rest framework
+* Django channels
+* Docker
 * Celery, Redis
 * Postgresql
-* Docker
 
 <!---
 MohammadOshkooh/MohammadOshkooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
