@@ -7,6 +7,7 @@
 * Docker
 * Celery, Redis
 * Postgresql
+* MySQL
 
 <!---
 MohammadOshkooh/MohammadOshkooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
