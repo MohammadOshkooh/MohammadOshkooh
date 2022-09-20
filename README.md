@@ -7,7 +7,6 @@
 * Docker
 
  #### familiar with
-* Celery, Redis
 * Postgresql
 * js
 
