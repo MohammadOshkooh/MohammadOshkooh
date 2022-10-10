@@ -8,7 +8,8 @@
 
  #### familiar with
 * Postgresql
-* js
+* Js
+* Linux
 
 
 <!---
