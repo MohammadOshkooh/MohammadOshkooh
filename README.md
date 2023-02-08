@@ -3,13 +3,17 @@
 * Python
 * Django
 * Django rest framework
-* Django channels
 * Docker
 
  #### familiar with
 * Postgresql
 * Js
 * Linux
+* RabbitMQ
+* Web Socket
+* Django channels
+* Unit Test 
+
 
 
 <!---
