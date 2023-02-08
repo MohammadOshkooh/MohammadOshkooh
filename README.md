@@ -4,6 +4,8 @@
 * Django
 * Django rest framework
 * Docker
+* Git
+
 
  #### familiar with
 * Postgresql
