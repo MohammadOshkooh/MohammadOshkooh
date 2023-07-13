@@ -1,10 +1,10 @@
  
 ## Hi there, I'm Mohammad 👋 
-<!-- Software Engineer experienced building applications with Java,Spring Boot, and React.js -->
+A software engineer interested in development ✨
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,git,docker,postgres,linux,rabbitmq,js,c,cpp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,git,docker,postgres,linux,rabbitmq,js,c,cpp&perline=10)](https://skillicons.dev)
 
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
  -->
