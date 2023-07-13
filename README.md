@@ -1,21 +1,26 @@
-### skills
+ 
+## Hi there, I'm Mohammad 👋 
+<!-- Software Engineer experienced building applications with Java,Spring Boot, and React.js -->
 
-* Python
-* Django
-* Django rest framework
-* Docker
-* Git
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django, git, docker, postgres, linux, rabbitmq, js, c, cpp" />
+  </a>
+</p>
+
+<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
+ -->
+<!-- <a href="https://github.com/haticekaratay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticekaratay&theme=react&layout=compact" alt="hatice's github stats"/>
+</a> -->
 
 
- #### familiar with
-* Postgresql
-* Js
-* Linux
-* RabbitMQ
-* Web Socket
-* Django channels
-* Unit Test 
-
+## Contact
+<p>
+<a href=""><img src="https://cdn.iconscout.com/icon/free/png-128/linkedin-1464529-1239440.png" alt="Linkedin" width="40"/></a> 
+<a href="mohammadoshkooh@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-128/gmail-2981844-2476484.png" alt="Gmail" width="40"/ title="mohammadoshkooh@gmail.com"></a> 
+</p>
 
 
 <!---
