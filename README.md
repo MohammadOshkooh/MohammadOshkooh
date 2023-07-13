@@ -3,11 +3,8 @@
 <!-- Software Engineer experienced building applications with Java,Spring Boot, and React.js -->
 
 ## Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django, git, docker, postgres, linux, rabbitmq, js, c, cpp" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,git,docker,postgres,linux,rabbitmq,js,c,cpp&perline=3)](https://skillicons.dev)
 
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
  -->
