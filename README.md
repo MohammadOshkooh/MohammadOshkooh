@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,git,docker,postgres,linux,rabbitmq,js,c,cpp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,git,docker,postgres,linux,rabbitmq,js,c,cpp&perline=6)](https://skillicons.dev)
 
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
  -->
