@@ -3,14 +3,10 @@
 I'm a young and passionate developer specializing in Python and Django. I have a strong enthusiasm for development and love taking on challenges. If you're looking for someone to bring your ideas to life, you've come to the right place!
 
 ## Skills 🚀
-
-[![My Skills](https://skillicons.dev/icons?i=py,django,git,docker,postgres,linux,rabbitmq,js,c,cpp&perline=10)](https://skillicons.dev)
-
-<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
- -->
-<!-- <a href="https://github.com/haticekaratay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticekaratay&theme=react&layout=compact" alt="hatice's github stats"/>
-</a> -->
+Python, C, Cpp
+Django, Django REst framework
+Linux, Postgres, Docke, Git
+RabbitMQ, Redis, JavaScript
 
 ## Education 🎓
 
