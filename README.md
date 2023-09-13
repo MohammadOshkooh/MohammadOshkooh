@@ -3,10 +3,10 @@
 I'm a young and passionate developer specializing in Python and Django. I have a strong enthusiasm for development and love taking on challenges. If you're looking for someone to bring your ideas to life, you've come to the right place!
 
 ## Skills 🚀
-<p> Python, C, Cpp </h3>
-<p> Django, Django REst framework <p>
-<p> Linux, Postgres, Docke, Git <p>
-<p> RabbitMQ, Redis, JavaScript <p>
+* Python, C, Cpp
+* Django, Django REst framework
+* Linux, Postgres, Docke, Git
+* RabbitMQ, Redis, JavaScript
 
 ## Education 🎓
 
